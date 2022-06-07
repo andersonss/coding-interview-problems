@@ -1,1 +1,22 @@
 # coding-interview-problems
+
+## List of leetcode questions:
+
+- [x] 1 [Two Sum](https://leetcode.com/problems/two-sum/) #Array #HashTable #Greedy
+- [x] 2 [Container With Most Water (16 times)](https://leetcode.com/problems/container-with-most-water/submissions/) #Array #TwoPointers #Greedy
+- [x] 3 [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) #Array #TwoPointers #DynamicProgramming #Stack #MonotonicStack
+- [x] 4 [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) #TwoPointers #String #Stack #Simulation
+- [x] 5 [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) #HashTable #String #SlidingWindow
+- [x] 6 [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) #TwoPointers #String
+- [x] 7 [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) #TwoPointers #String #Greedy
+- [x] 8 [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) #LinkedList #Recursion
+- [x] 9 [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) #LinkedList
+- [x] 10 [Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/) #LinkedList #DFS #Doubly-LinkedList
+- [x] 11 [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) #HashTable #LinkedList #TwoPointers
+- [x] 12 [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) #String  #Stack
+- [x] 13 [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/submissions/) #String  #Stack
+- [x] 14 [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) #Stack  #Queue #Desigh
+- [x] 15 [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) #Array #DivideAndConquer #Sorting #HeapPriorQueue #QuickSelect
+- [x] 16 [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) #Array #BinarySearch
+- [x] 17 [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) #Tree #DFS #BFS #BinaryTree
+- [x] 18 [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) #BFS #Tree #BinaryTree 
