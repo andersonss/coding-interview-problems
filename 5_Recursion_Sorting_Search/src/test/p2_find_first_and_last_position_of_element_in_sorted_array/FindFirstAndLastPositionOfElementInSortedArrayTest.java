@@ -14,6 +14,5 @@ class FindFirstAndLastPositionOfElementInSortedArrayTest {
         assertThat(search.searchRange(new int[] {}, 0)).isEqualTo(new int[] {-1,-1});
         assertThat(search.searchRange(new int[] {1}, 1)).isEqualTo(new int[] {0,0});
         assertThat(search.searchRange(new int[] {2,2}, 2)).isEqualTo(new int[] {0,1});
-
     }
 }
