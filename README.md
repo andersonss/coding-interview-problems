@@ -3,7 +3,7 @@
 ## List of leetcode questions:
 
 - [x] 1 [Two Sum](https://leetcode.com/problems/two-sum/) #Array #HashTable #Greedy
-- [x] 2 [Container With Most Water (16 times)](https://leetcode.com/problems/container-with-most-water/submissions/) #Array #TwoPointers #Greedy
+- [x] 2 [Container With Most Water](https://leetcode.com/problems/container-with-most-water/submissions/) #Array #TwoPointers #Greedy
 - [x] 3 [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) #Array #TwoPointers #DynamicProgramming #Stack #MonotonicStack
 - [x] 4 [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) #TwoPointers #String #Stack #Simulation
 - [x] 5 [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) #HashTable #String #SlidingWindow
