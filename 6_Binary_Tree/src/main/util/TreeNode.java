@@ -1,18 +1,18 @@
 package util;
 
 public class TreeNode {
-    public int val;
+    public int value;
     public TreeNode left;
     public TreeNode right;
 
     public TreeNode() {}
 
-    public TreeNode(int val) {
-        this.val = val;
+    public TreeNode(int value) {
+        this.value = value;
     }
 
-    public TreeNode(int val, TreeNode left, TreeNode right) {
-        this.val = val;
+    public TreeNode(int value, TreeNode left, TreeNode right) {
+        this.value = value;
         this.left = left;
         this.right = right;
     }

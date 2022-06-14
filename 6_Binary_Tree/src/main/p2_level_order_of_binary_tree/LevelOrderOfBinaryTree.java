@@ -23,7 +23,7 @@ public class LevelOrderOfBinaryTree {
             Queue<TreeNode> nextLevelNodes = new LinkedList<>();
             while(!queue.isEmpty()) {
                 TreeNode currentNode = queue.poll();
-                levelValues.add(currentNode.val);
+                levelValues.add(currentNode.value);
                 if (currentNode.left != null) {
                     nextLevelNodes.add(currentNode.left);
                 }
