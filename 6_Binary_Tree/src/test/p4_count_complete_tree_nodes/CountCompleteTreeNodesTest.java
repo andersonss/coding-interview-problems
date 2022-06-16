@@ -3,8 +3,6 @@ package p4_count_complete_tree_nodes;
 import org.junit.jupiter.api.Test;
 import util.TreeNode;
 
-import java.util.List;
-
 import static org.assertj.core.api.AssertionsForInterfaceTypes.assertThat;
 
 class CountCompleteTreeNodesTest {

@@ -37,20 +37,20 @@ public class CountCompleteTreeNodes {
     public int countNodes(TreeNode root) {
         // if the tree is empty
         if (root == null) return 0;
-        int d = computeDepth(root);
+        int height = computeDepth(root);
         // if the tree contains 1 node
-        if (d == 0) return 1;
-        // Last level nodes are enumerated from 0 to 2**d - 1 (left -> right).
+        if (height == 0) return 1;
+        // Last level nodes are enumerated from 0 to 2**height - 1 (left -> right).
         // Perform binary search to check how many nodes exist.
-        int upperCount = (int)Math.pow(2, d) - 1;
+        int upperCount = (int)Math.pow(2, height) - 1;
         int left = 1, right = upperCount;
         int pivot;
         while (left <= right) {
             pivot = left + (right - left) / 2;
-            if (exists(pivot, d, root)) left = pivot + 1;
+            if (exists(pivot, height, root)) left = pivot + 1;
             else right = pivot - 1;
         }
-        // The tree contains 2**d - 1 nodes on the first (d - 1) levels
+        // The tree contains 2**height - 1 nodes on the first (height - 1) levels
         // and left nodes on the last level.
         return upperCount + left;
     }

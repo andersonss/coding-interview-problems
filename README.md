@@ -21,7 +21,7 @@
 - [x] 17 [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) #Tree #DFS #BFS #BinaryTree
 - [x] 18 [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) #BFS #Tree #BinaryTree
 - [x] 19 [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) #Tree #DFS #BFS #BinaryTree
-- [ ] 20 [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) #BinarySearch #Tree #DFS #BinaryTree
-- [ ] 21 [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) #Tree #DFS #BinarySearchTree #BinaryTree
+- [x] 20 [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) #BinarySearch #Tree #DFS #BinaryTree
+- [x] 21 [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) #Tree #DFS #BinarySearchTree #BinaryTree
 - [ ] 22 [Number of Islands](https://leetcode.com/problems/number-of-islands/) #Array #DFS #BFS #UnionFind #Matrix
 - [ ] 23 [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) #Array #BFS #Matrix 
