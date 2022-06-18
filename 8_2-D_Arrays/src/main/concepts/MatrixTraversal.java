@@ -5,9 +5,9 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.Queue;
 
-public class MatrixTraversalRecursive {
+public class MatrixTraversal {
     static int[][] directions = {
-            {-1, 1}, // up
+            {-1, 0}, // up
             {0, 1}, // right
             {1, 0}, // down
             {0, -1} // left
@@ -17,7 +17,6 @@ public class MatrixTraversalRecursive {
         final int ROW = matrix.length;
         final int COL = matrix[0].length;
         boolean[][] seen = new boolean[ROW][COL];
-//        initializeSeen(seen);
         ArrayList<Integer> values = new ArrayList<>();
         dfs(matrix, 0, 0, seen, values);
         return values;
@@ -27,7 +26,6 @@ public class MatrixTraversalRecursive {
         final int ROW = matrix.length;
         final int COL = matrix[0].length;
         boolean[][] seen = new boolean[ROW][COL];
-//        initializeSeen(seen);
         ArrayList<Integer> values = new ArrayList<>();
         Queue<int[]> queue = new LinkedList<>();
         queue.add(new int[] {0, 0});
@@ -47,14 +45,6 @@ public class MatrixTraversalRecursive {
         }
         return values;
     }
-
-//    private static void initializeSeen(boolean[][] seen) {
-//        for (int i = 0; i < seen.length; i++) {
-//            for (int j = 0; j < seen[0].length; j++) {
-//                seen[i][j] = false;
-//            }
-//        }
-//    }
 
     private static void dfs(int[][] matrix, int row, int col, boolean[][] seen, List<Integer> values) {
         if (row < 0 || col < 0 || row >= matrix.length || col >= matrix[0].length || seen[row][col]) {

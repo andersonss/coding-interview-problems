@@ -23,5 +23,5 @@
 - [x] 19 [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) #Tree #DFS #BFS #BinaryTree
 - [x] 20 [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) #BinarySearch #Tree #DFS #BinaryTree
 - [x] 21 [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) #Tree #DFS #BinarySearchTree #BinaryTree
-- [ ] 22 [Number of Islands](https://leetcode.com/problems/number-of-islands/) #Array #DFS #BFS #UnionFind #Matrix
-- [ ] 23 [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) #Array #BFS #Matrix 
+- [x] 22 [Number of Islands](https://leetcode.com/problems/number-of-islands/) #Array #DFS #BFS #UnionFind #Matrix
+- [x] 23 [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) #Array #BFS #Matrix 

@@ -2,7 +2,7 @@ package concepts;
 
 import java.util.Stack;
 
-public class MatrixTraversalIterative {
+public class MatrixTraversalIterativeDFS {
 
     // Initialize direction vectors
     static int[] dRow = { 0, 1, 0, -1 };
