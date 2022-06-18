@@ -25,4 +25,4 @@
 - [x] 21 [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) #Tree #DFS #BinarySearchTree #BinaryTree
 - [x] 22 [Number of Islands](https://leetcode.com/problems/number-of-islands/) #Array #DFS #BFS #UnionFind #Matrix
 - [x] 23 [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) #Array #BFS #Matrix
-- [x] 24 [Walls and Gates](https://leetcode.com/problems/walls-and-gates/) #Array #BFS #Matrix
+- [x] 24 [Walls and Gates](https://leetcode.com/problems/walls-and-gates/) #Array #DFS #Matrix
