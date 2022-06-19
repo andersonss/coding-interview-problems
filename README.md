@@ -26,3 +26,4 @@
 - [x] 22 [Number of Islands](https://leetcode.com/problems/number-of-islands/) #Array #DFS #BFS #UnionFind #Matrix
 - [x] 23 [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) #Array #BFS #Matrix
 - [x] 24 [Walls and Gates](https://leetcode.com/problems/walls-and-gates/) #Array #DFS #Matrix
+- [x] 25 [Time Needed to Inform All Employees - LeetCode](https://leetcode.com/problems/time-needed-to-inform-all-employees/) #Tree #DFS #BFS 
