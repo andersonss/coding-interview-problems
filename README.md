@@ -27,3 +27,4 @@
 - [x] 23 [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) #Array #BFS #Matrix
 - [x] 24 [Walls and Gates](https://leetcode.com/problems/walls-and-gates/) #Array #DFS #Matrix
 - [x] 25 [Time Needed to Inform All Employees - LeetCode](https://leetcode.com/problems/time-needed-to-inform-all-employees/) #Tree #DFS #BFS 
+- [x] 26 [Course Schedule](https://leetcode.com/problems/course-schedule/) #DFS #BFS #Graph #TopologicalSort
