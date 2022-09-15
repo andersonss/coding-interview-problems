@@ -1,7 +1,6 @@
 package p2_container_with_most_water;
 
 import org.junit.jupiter.api.Test;
-import p2_container_with_most_water.ContainerWithMostWater;
 
 import static org.assertj.core.api.AssertionsForInterfaceTypes.assertThat;
 

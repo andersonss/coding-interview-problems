@@ -1,7 +1,6 @@
 package p4_almost_palindrome;
 
 import org.junit.jupiter.api.Test;
-import p4_almost_palindrome.ValidAlmostPalindrome;
 
 import static org.assertj.core.api.AssertionsForInterfaceTypes.assertThat;
 
